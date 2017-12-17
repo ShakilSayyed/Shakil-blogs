@@ -1,0 +1,42 @@
+# [personal]
+    name = "Shakil Sayyed"
+    email = "booksilov@outlook.com"
+    title = "Shakil Blogs"
+    avatar = "css/images/avatar.png"
+    logo ="css/images/logo.png"
+    copyright = "(c) 2017 adamleo."
+    footline = "contact me at addleo@protonmail.com"
+    baseurl = "http://ShakilSayyed.github.io/shakil-blogs"
+    languageCode = "en-uk"
+
+
+##########################################
+# [taxonomies]
+        tag = "tags"
+        category = "categories"
+        series = "series"
+
+####################################
+
+brand = "md"
+contentdir = "content"
+publishdir = "public"
+relativeurls =  true
+
+
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+
+###############################
+#[permalinks]
+#post = "/:year/:month/:day/:slug"
+
+##############################
+# delete watch and verbose values when generating for remote site
+# watch = true
+# verbose = true
+
+themesDir = "themes"
+theme = "beg"
+
+##################################################################
