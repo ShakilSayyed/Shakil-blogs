@@ -6,7 +6,7 @@
     logo ="css/images/logo.png"
     copyright = "(c) 2017 adamleo."
     footline = "contact me at addleo@protonmail.com"
-    baseurl = "http://ShakilSayyed.github.io/shakil-blogs"
+    baseurl = "http://ShakilSayyed.github.io/"
     languageCode = "en-uk"
 
 
@@ -33,8 +33,8 @@ relativeurls =  true
 
 ##############################
 # delete watch and verbose values when generating for remote site
-# watch = true
-# verbose = true
+ watch = true
+ verbose = true
 
 themesDir = "themes"
 theme = "beg"
